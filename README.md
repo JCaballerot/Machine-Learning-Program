@@ -16,3 +16,5 @@ Bienvenidos al repositorio del curso *Machine Learning*, parte de la especializa
 Cada carpeta se organiza por sesión y contiene notebooks de clase con código y ejercicios prácticos, así como materiales de referencia. Los ejemplos y proyectos están diseñados para que puedas practicar y dominar los conceptos a lo largo del curso.
 
 ---
+
+**Autor:** John Caballero
